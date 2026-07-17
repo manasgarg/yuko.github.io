@@ -3,7 +3,7 @@ email: ""
 description: >-
   Notes and updates from yuko.
 baseurl: "/yuko.github.io"
-url: "https://manasgarg.github.io"
+url: "http://www.fuzzysparkle.com"
 theme: minima
 plugins:
   - jekyll-feed
