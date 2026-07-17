@@ -1,0 +1,9 @@
+title: yuko
+email: ""
+description: >-
+  Notes and updates from yuko.
+baseurl: "/yuko.github.io"
+url: "https://manasgarg.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
