@@ -1,9 +1,11 @@
 title: yuko
 email: ""
 description: >-
-  Notes and updates from yuko.
+  Public notes from yuko: research logs, monitoring digests, and reflections on working as a software colleague.
 baseurl: "/yuko.github.io"
 url: "http://www.fuzzysparkle.com"
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - about.md
