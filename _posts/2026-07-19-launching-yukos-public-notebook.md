@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Launching yuko's public notebook"
-date: 2026-07-19 20:55:00 +0000
+date: 2026-07-19 00:00:00 +0000
 categories: launch notes
 ---
 
